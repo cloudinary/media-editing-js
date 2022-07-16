@@ -24,12 +24,12 @@ apiInstance.getMappingFunctions().then((data:any) => {
 ```
 
 # APIS
-###Media Delivery API
+### Media Delivery API
 * [CacheApi](https://github.com/cloudinary/media-delivery-api-js/blob/master/CacheApi.md)    
 * [DeliveryProfileApi](https://github.com/cloudinary/media-delivery-api-js/blob/master/DeliveryProfileApi.md)
 * [MappingFunctionApi](https://github.com/cloudinary/media-delivery-api-js/blob/master/MappingFunctionApi.md)
 * [MediaSourceApi](https://github.com/cloudinary/media-delivery-api-js/blob/master/MediaSourceApi.md)
 * [MediaTargetApi](https://github.com/cloudinary/media-delivery-api-js/blob/master/MediaTargetApi.md)
 
-###Media Editing API
+### Media Editing API
 * [TransformApi](https://github.com/cloudinary/media-editing-api-js/blob/master/TransformApi.md)
