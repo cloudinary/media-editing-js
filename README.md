@@ -33,3 +33,17 @@ apiInstance.getMappingFunctions().then((data:any) => {
 
 ### Media Editing API
 * [TransformApi](https://github.com/cloudinary/media-editing-api-js/blob/master/TransformApi.md)
+
+
+## Contributions
+- Ensure tests run locally (add test command)
+- Open a PR and ensure Travis tests pass
+
+
+## Get Help
+If you run into an issue or have a question, you can either:
+- Issues related to the SDK: [Open a Github issue](https://github.com/cloudinary/media-editing-js/issues)
+- Issues related to your account: [Open a support ticket](https://cloudinary.com/contact)
+
+## Licence
+Released under the MIT license.
