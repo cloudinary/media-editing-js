@@ -11,8 +11,8 @@
   "author": "",
   "license": "MIT",
   "dependencies": {
-    "@cloudinary/media-delivery-api": "0.1.0-beta",
-    "@cloudinary/media-editing-api": "0.1.0-beta",
+    "@cloudinary/media-delivery-api": "0.1.1-beta",
+    "@cloudinary/media-editing-api": "0.1.1-beta",
     "@cloudinary/url-builder": "0.1.0-beta",
     "@cloudinary/url-gen": "^1.8.0"
   },
