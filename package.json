@@ -1,12 +1,11 @@
 {
   "name": "@cloudinary/media-editing",
-  "version": "0.1.0-beta",
+  "version": "0.1.2-beta",
   "description": "",
   "main": "index.js",
   "scripts": {
-    "build:tsc": "tsc",
-    "build": "bash ./scripts/build.sh",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "build": "tsc && cp package.json ./dist && cp *.md ./dist",
+    "test": "npm run build && node dist/index.js"
   },
   "keywords": [],
   "author": "",
@@ -21,6 +20,7 @@
   "dependencies": {
     "@cloudinary/media-delivery-api": "0.1.0-beta",
     "@cloudinary/media-editing-api": "0.1.0-beta",
+    "typescript": "^4.7.4",
     "@types/node": "^18.0.3"
   }
 }
